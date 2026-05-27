@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsender",
+        "uuid": 9929088,
+        "checksum": "b9wykp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
